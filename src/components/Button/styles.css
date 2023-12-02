@@ -1,0 +1,26 @@
+.btn-container{
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
+
+.btn-container button{
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  margin-top: 32px;
+  padding: 16px 32px;
+  outline: none;
+  background-color: #333;
+  font-size: 16px;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.btn-container button[disabled]{
+  background-color: #33333370;
+  cursor: not-allowed;
+}

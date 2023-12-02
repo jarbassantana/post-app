@@ -1,0 +1,14 @@
+.input-container{
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.input-search{
+  padding: 14px;
+  font-family: 'Fira Sans', sans-serif;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  width: 100%;
+}

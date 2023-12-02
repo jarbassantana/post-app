@@ -1,0 +1,10 @@
+.container {
+  min-height: 100vh;
+  
+  
+  padding: 0 24px;
+  padding-top: 48px;
+  background-color: #eee;
+  padding-bottom: 120px;
+}
+
